@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bca6485e-1a9e-4410-b4ae-e5a8bc1ca717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/split_dataset.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcnn.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aic2-assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aic2-assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rf.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731239337416</updated>
       <workItem from="1731239341229" duration="726000" />
-      <workItem from="1731240627744" duration="2873000" />
+      <workItem from="1731240627744" duration="6570000" />
     </task>
     <servers />
   </component>
