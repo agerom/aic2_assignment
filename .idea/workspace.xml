@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bca6485e-1a9e-4410-b4ae-e5a8bc1ca717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/split_dataset.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aic2_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aic2_assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aic2-assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aic2-assignment.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rf.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;agerom&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/agerom/aic2_assignment.git&quot;,
+    &quot;accountId&quot;: &quot;3d591ef4-cbba-4dd1-84bd-fb0b2fea3e9e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -48,6 +62,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -94,6 +109,7 @@
       <updated>1731239337416</updated>
       <workItem from="1731239341229" duration="726000" />
       <workItem from="1731240627744" duration="6570000" />
+      <workItem from="1731264066825" duration="1473000" />
     </task>
     <servers />
   </component>
@@ -129,5 +145,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
