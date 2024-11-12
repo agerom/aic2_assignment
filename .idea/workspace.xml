@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bca6485e-1a9e-4410-b4ae-e5a8bc1ca717" name="Changes" comment="on board">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,8 @@
       <workItem from="1731240627744" duration="6570000" />
       <workItem from="1731264066825" duration="1473000" />
       <workItem from="1731265658527" duration="7195000" />
-      <workItem from="1731423111763" duration="470000" />
+      <workItem from="1731423111763" duration="2754000" />
+      <workItem from="1731427823282" duration="2156000" />
     </task>
     <task id="LOCAL-00001" summary="on board">
       <option name="closed" value="true" />
