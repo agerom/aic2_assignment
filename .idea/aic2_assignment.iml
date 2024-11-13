@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv311" />
+      <excludeFolder url="file://$MODULE_DIR$/venv309" />
     </content>
     <orderEntry type="jdk" jdkName="Poetry (aic2_assignment)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
