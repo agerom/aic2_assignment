@@ -26,4 +26,5 @@ keras = "^2.12.0"
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
-
+#https://python-poetry.org/docs/configuration/
+#poetry config --list

@@ -6,14 +6,20 @@ authors = ["agerom <agerom@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.12,<3.13"
+python = ">=3.9,<3.13"
 pandas = "^2.2.3"
 notebook = "^7.2.2"
+jupyter = "^1.1.1"
+holidays = "^0.60"
 matplotlib = "^3.9.2"
-tensorflow = "2.12"
-tensorflow-io-gcs-filesystem = "0.31.0"
-keras = "^2.12.0"
+seaborn = "^0.13.2"
+scikit-learn = "^1.5.2"
+#tensorflow = "^2.12"
+tensorflow-io-gcs-filesystem = "0.37.1"
+
+
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
