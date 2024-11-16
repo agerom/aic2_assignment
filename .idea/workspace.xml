@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca6485e-1a9e-4410-b4ae-e5a8bc1ca717" name="Changes" comment="splitting and adding nice files">
-      <change afterPath="$PROJECT_DIR$/poetry.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aic2_assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aic2_assignment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bca6485e-1a9e-4410-b4ae-e5a8bc1ca717" name="Changes" comment="on board struggling with POETRY">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/split_dataset.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/data/split_dataset.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rf.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/rf.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/tcnn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
