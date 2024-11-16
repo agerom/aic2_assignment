@@ -1,22 +1,27 @@
 [tool.poetry]
 name = "aic2-assignment"
-version = "0.1.0"
-description = ""
+package-mode=false#If you want to use Poetry only for dependency management but not for packaging
+
+version = "1.1.1"
+description = "Work done in the context of assignment for the AI2C"
 authors = ["agerom <agerom@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
-pandas = "^2.2.3"
-notebook = "^7.2.2"
+python = ">=3.9,<3.12"
+pandas = "*"
+numpy = "*"
+notebook = "*"
+ipython = "*"
+requests = "*"
 jupyter = "^1.1.1"
-holidays = "^0.60"
-matplotlib = "^3.9.2"
-seaborn = "^0.13.2"
-scikit-learn = "^1.5.2"
-#tensorflow = "^2.12"
-tensorflow-io-gcs-filesystem = "0.37.1"
-
+holidays = "*"
+matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+tensorflow-io-gcs-filesystem = "0.31.0"
+tensorflow = "2.15.0"
+tensorflow-intel = "2.15.0"
 
 
 [build-system]
